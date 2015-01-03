@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ExtraTimeoutCommandBase.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ShooterIntakeEject.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ShooterIntakeLoad4Frisbees.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ShooterShoot5to7FrisbeesWaitRPMAutonomous.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ShooterWheelSetSpeed.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ShooterWheelSetDeltaRPM.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ShooterWheelIncrementRPM.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/commands/ShooterShoot3Frisbees.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/subsystems/ShooterPitchAngle.java</file>
+            <file>file:/C:/Users/bselle/Documents/FRC2013/Team3310FRC2013/src/edu/rhhs/frc/subsystems/ShooterPitchAngleComp.java</file>
+        </group>
+    </open-files>
+</project-private>
